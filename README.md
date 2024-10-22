@@ -30,6 +30,7 @@ The analysis employs Principal Component Analysis (PCA) using Python 3.7, specif
 6. Factor loading interpretation
 
 ## Repository Structure
+```
 ├── data/
 │   ├── raw/                  # Original data files
 │   └── processed/            # Cleaned and preprocessed data
@@ -41,7 +42,7 @@ The analysis employs Principal Component Analysis (PCA) using Python 3.7, specif
 ├── results/                # Generated figures and tables
 ├── requirements.txt        # Python dependencies
 └── README.md              # Repository documentation
-
+```
 
 ## Requirements
 
