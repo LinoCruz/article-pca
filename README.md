@@ -31,14 +31,9 @@ The analysis employs Principal Component Analysis (PCA) using Python 3.7, specif
 
 ## Repository Structure
 ```
-├── data/
-│   ├── raw/                  # Original data files
-│   └── processed/            # Cleaned and preprocessed data
+├── data/                     # The data used for the study
 ├── src/
-│   ├── preprocessing/        # Data cleaning and preparation scripts
-│   ├── analysis/            # PCA implementation and analysis
-│   └── visualization/       # Plotting and visualization functions
-├── notebooks/               # Jupyter notebooks with analysis
+│   ├── jupyter_notebook       #Jupyter notebooks with the artifacts (transforming, processing and PCA)
 ├── results/                # Generated figures and tables
 ├── requirements.txt        # Python dependencies
 └── README.md              # Repository documentation
